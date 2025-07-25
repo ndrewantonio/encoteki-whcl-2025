@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "icrc7": {
+      "main": "src/backend/main.mo",
+      "type": "motoko",
+      "gzip": true
+    },
+    "frontend": {
+      "dependencies": ["icrc7"],
+      "source": ["src/frontend/dist"],
+      "type": "assets",
+      "workspace": "frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": "mops sources"
+    },
+    "replica": {
+      "subnet_type": "system"
+    }
+  },
+  "dfx": "0.24.3",
+  "version": 1
+}
