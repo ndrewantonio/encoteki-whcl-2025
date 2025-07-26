@@ -1,10 +1,10 @@
 {
-  "name": "encoteki-whcl-2025-frontend",
+  "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "setup": "npm i && dfx canister create encoteki-whcl-2025-backend && dfx generate encoteki-whcl-2025-backend && dfx deploy",
+    "setup": "npm i && dfx canister create backend && dfx generate backend && dfx deploy",
     "start": "vite --port 3000",
     "prebuild": "dfx generate",
     "build": "tsc && vite build",
