@@ -1,4 +1,4 @@
-# Welcome to Encoteki: The Satwas Band on Bitfinity Testnet
+# Welcome to Encoteki: The Satwas Band on ICP
 
 ![](https://github.com/ndrewantonio/icp_encoteki_mint/blob/main/logo.png)
 
@@ -12,7 +12,7 @@ Learn more about Encoteki visit:
 
 [🛜 BE Canister](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=5e36a-2yaaa-aaaae-abmbq-cai)
 
-# The Satwas Band NFT at Bitfinity Testnet Minting DApp 🔥
+# The Satwas Band NFT at ICP 🔥
 
 Encoteki is an innovative project dedicated to creating a self-sustainable environment and community through the power of technology and NFTs. Our mission is to conserve endangered animals in Indonesia, support local communities, and offer tangible benefits to our project participants.
 
